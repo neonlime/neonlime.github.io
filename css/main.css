@@ -31,6 +31,14 @@ a {
 .header-nav a:active {
   color: #ed6e2f;
 }
+
+.header-nav > li:first-child a {
+  color: #ed6e2f;
+}
+.header-nav > li:first-child a:hover {
+  color: #000;
+}
+
 .header-logo:hover,
 .header-logo:active {
   opacity: 0.5;
@@ -60,6 +68,7 @@ a {
   vertical-align: middle;
   width: 2.5em;
 }
+
 .social-list {
   list-style: none;
   padding: 0;
