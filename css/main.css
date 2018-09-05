@@ -371,6 +371,9 @@ flex: 0 1 15em;
   box-shadow: 0 0 0 5px #ed6e2f;
   opacity: 1;
 }
+.gallery-thumbs .current {
+  cursor: default;
+}
 .gallery-photo {
   position: relative;
 }
