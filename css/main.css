@@ -558,19 +558,18 @@ flex: 0 1 15em;
   float: none;
   font-size: 1.3rem;
   width: auto;
-}s
+}
 
   /* BLOG STYLES */
-  .post-aside {
+  /*.post-aside {
     display: none;
-  }
+  }*/
   .blog-recent {
   display: none;
 }
 .blog-previews {
   padding: 0;
 }
-
   /* GALLERY STYLES */
 .gallery {
   flex-direction: column;
